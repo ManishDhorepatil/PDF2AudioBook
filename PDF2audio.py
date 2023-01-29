@@ -218,15 +218,7 @@ exit.place(x=290, y=380)
 
 root.mainloop()
 
-#END
-# This Project is create by Shreenath Khadap 
-# By using Python libraries and tkinter for devloping GUI
-#date 23/04/2022
-#Second Year Computer Engenerring From Dr.D.Y.patil,pimpri
 
-#pbl project participants
-#1.SCOA59 Shreenath Khadap
-#2.SCOA60 Purva Ovhal
 
 # 1.for pytessreact u need to download binary file and install .exe and mention his path in code
 #  EX.pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
